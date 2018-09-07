@@ -1,0 +1,25 @@
+body{
+background-color: #c18265
+}
+ul {
+    list-style-type: none;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #568;
+    width: 90%;
+}
+li{
+    float: left;
+    border-bottom: 2px solid black;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-bottom: solid;
+ }
+ #contato{
+ 	border-bottom-width: 50px;
+ }

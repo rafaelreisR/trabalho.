@@ -1,0 +1,56 @@
+.container{
+    width: 960px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #258;
+    width: 30%;
+}
+li{
+    float: left;
+    border-bottom: 2px solid black;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-bottom: solid;
+}
+h1{
+	padding: 10px;
+	margin: 40px;
+	text-align: center;
+	background-color:#40241a;
+	color: green;
+}
+body{
+	background-color: #8c7b75;
+}
+img{
+    align-self: : center;
+}
+p{
+
+}
+
+.listagem{
+   
+}
+#cardapio{
+float: none;
+
+}
+#recepção{
+float: left;
+}
+.paragrafo{
+    width: 170px;
+    height: 170px;
+    margin-right: 15px;
+}
